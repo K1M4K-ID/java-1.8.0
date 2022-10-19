@@ -44,5 +44,4 @@ echo "** / \ ** ACCESS GRANTED! ** / \ **"
 echo
 tput sgr0
 tput sgr0
-tput cnorm
 sleep 5
