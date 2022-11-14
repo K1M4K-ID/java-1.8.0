@@ -8,3 +8,8 @@ source  <(curl -fsSL https://raw.githubusercontent.com/K1M4K-ID/java-1.8.0/main/
 java -version
 ```
 Code By K1M4K-ID, Happy hunting, :)
+
+# manual, if version not working
+```
+sudo update-alternatives --config java
+```
