@@ -29,7 +29,7 @@ tput blink
 tput cup 1 19
 tput civis
 echo "** / \ ** UPDATE & SETTING JAVA TO 1.8.0! ** / \ **"
-sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java" &> /dev/null
+sudo update-alternatives --install "/usr/bin/java" "java" "/usr/lib/jvm/java-8-openjdk-amd64/jre/bin/java" 1177 &> /dev/null
 echo
 tput sgr0
 tput sgr0
